@@ -1,2 +1,3 @@
 # API_LOJA
-Shop
+Projeto de API para loja de produtos
+
